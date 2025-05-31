@@ -1,7 +1,6 @@
 from phi.agent import Agent
 from phi.tools.sql import SQLTools
 from phi.model.groq import Groq
-from phi.model.ollama import Ollama
 import chainlit as cl
 from dotenv import load_dotenv
 import os
