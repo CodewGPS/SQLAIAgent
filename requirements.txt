@@ -1,3 +1,4 @@
+groq
 phidata
 python-dotenv
 chainlit
